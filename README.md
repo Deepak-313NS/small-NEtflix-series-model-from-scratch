@@ -1,1 +1,1 @@
-# small-NEtflix-series-model-from-scratch
+# Small-NEtflix-series-model-from-scratch
